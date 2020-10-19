@@ -1,0 +1,64 @@
+h1{
+    color: purple;
+    text-align: center;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+#sections{
+    text-align: center;
+    color: aqua;
+    background-color: darkslategrey;
+}
+
+a:link{
+    color: darkturquoise ;
+}
+
+a:visited {
+    color: lightpink;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: lime;
+  }
+
+  table{
+      border: border: 1px solid black;;
+      width: 50%;
+     
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  th,td {
+    height: 50px;
+    text-align: center;
+    padding: 15px;
+  }
+
+  th{
+      background-color: teal;
+      color: white;
+  }
+
+  #right{
+      text-align: right;
+
+  }
+  
+
+
+  
+  
+  
+  
